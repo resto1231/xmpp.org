@@ -362,6 +362,15 @@
     },
     {
         "doap": null,
+        "last_renewed": "2020-05-05T12:59:59",
+        "name": "Mailfence",
+        "platforms": [
+            "Other"
+        ],
+        "url": "https://mailfence.com"
+    },
+    {
+        "doap": null,
         "last_renewed": "2019-07-16T20:20:38",
         "name": "mcabber",
         "platforms": [
